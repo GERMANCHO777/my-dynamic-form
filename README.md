@@ -2,7 +2,7 @@
 
 This is a dynamic form program created with React and Material-UI. It allows the creation of a dynamic form with text input, number, and select fields. Additionally, it performs real-time validations and displays error messages if required fields are not completed. Besides that unit testing is addressed.
 
-![Image]('sample.png')
+![Image](sample.png)
 
 ## Features
 
